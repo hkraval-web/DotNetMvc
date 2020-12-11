@@ -10,7 +10,7 @@ namespace ComicBookGallery.Controllers
     {
         public string Test()
         {
-            return "Test!";
+            return "Test 123!";
         } 
     }
 }
